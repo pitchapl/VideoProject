@@ -1,0 +1,84 @@
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\App.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\HomePage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\PhotoCapturePage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\VideoCapturePage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\UniversalJupiter.WindowsPhone.xr.xml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\UniversalJupiter.WindowsPhone.exe
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\UniversalJupiter.WindowsPhone.pdb
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\resources.pri
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\UniversalJupiter.WindowsPhone.build.appxrecipe
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\HomePage.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\HomePage.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\PhotoCapturePage.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\PhotoCapturePage.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\VideoCapturePage.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\VideoCapturePage.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\App.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\HomePage.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\PhotoCapturePage.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\VideoCapturePage.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\App.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\HomePage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\PhotoCapturePage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\VideoCapturePage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\UniversalJupiter.WindowsPhone.exe
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\UniversalJupiter.WindowsPhone.pdb
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\App.xbf
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\HomePage.xbf
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\PhotoCapturePage.xbf
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\VideoCapturePage.xbf
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\UniversalJupiter.WindowsPhone.xr.xml
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\UniversalJupiter.WindowsPhone.exe
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\UniversalJupiter.WindowsPhone.pdb
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\resources.pri
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\bin\Debug\UniversalJupiter.WindowsPhone.build.appxrecipe
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\HomePage.g.i.cs
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\HomePage.g.cs
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\PhotoCapturePage.g.i.cs
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\PhotoCapturePage.g.cs
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\VideoCapturePage.g.i.cs
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\VideoCapturePage.g.cs
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\App.xaml
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\HomePage.xaml
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\PhotoCapturePage.xaml
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\VideoCapturePage.xaml
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\App.xbf
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\HomePage.xbf
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\PhotoCapturePage.xbf
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\VideoCapturePage.xbf
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\UniversalJupiter.WindowsPhone.exe
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\UniversalJupiter.WindowsPhone.pdb
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\pitchapl\Desktop\Camera_Resource\Session 17 Demos\Session 17 Demos\02 - BasicCapturing\UniversalJupiter\UniversalJupiter.WindowsPhone\obj\Debug\ProjectArchitectures.txt
